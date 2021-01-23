@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1530672875 source:c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\bmevey.c
+	"Bmevey.h"
+
+1530832290 c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\bmevey.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1530837766 source:c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\fonct_generales.c
+	"Bmevey.h"
+
+1530840486 source:c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\gest_artis.c
+	"Bmevey.h"
+
+1530837766 source:c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\gest_evnt.c
+	"Bmevey.h"
+
+1530842048 source:c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\gest_oeuv.c
+	"Bmevey.h"
+
+1530846482 source:c:\users\dubuche\desktop\eco\projet struc de donnees 2k18\rapp.c
+	"Bmevey.h"
+
+1530672875 source:c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\bmevey.c
+	"Bmevey.h"
+
+1530832290 c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\bmevey.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1530837766 source:c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\fonct_generales.c
+	"Bmevey.h"
+
+1530840486 source:c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\gest_artis.c
+	"Bmevey.h"
+
+1530837766 source:c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\gest_evnt.c
+	"Bmevey.h"
+
+1530842048 source:c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\gest_oeuv.c
+	"Bmevey.h"
+
+1530845893 source:c:\users\dubuche\desktop\le projet 2018\projet struc de donnees 2k18\rapp.c
+	"Bmevey.h"
+
